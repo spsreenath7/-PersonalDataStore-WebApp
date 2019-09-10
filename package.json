@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.21.4",
+    "aws-amplify": "^1.1.33",
+    "aws-amplify-react": "^2.3.12",
+    "bootstrap": "^3.3.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
